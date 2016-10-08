@@ -1,7 +1,6 @@
 <style>
 /********** Base styles **********/
 
-
 h1 {
   clear:both;
   text-align: center;  
@@ -100,16 +99,16 @@ div.desc {
 @media (min-width: 768px) and (max-width: 991px) {
   .tablet-1, .tablet-2, .tablet-3 {
     float: left;
-    border: 1px solid green;
+    border: 1px solid green;    
   }
   .tablet-1 {
-    width: 50%;
+    width: 47%;
   }
   .tablet-2 {
-    width: 50%;
+    width: 47%;
   }
   .tablet-3 {
-    width: 97%;
+    width: 96%;
   }  
 }
 
